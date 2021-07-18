@@ -1,0 +1,9 @@
+1. Create a local repository and 3 text files into it. 
+2. Create 2 braches as Dev and Test.
+3. Commit 1 file into Dev and 2 files into Test.
+4. Modify 1st file some text.
+5. Check differences and status.
+5. Finally merge all together in a master branch.
+6. Push this repository on your github.
+7. Create a clone for this repo from github to local system with another location.
+8. Create a new file as Solution.txt in this cloned repository. 
